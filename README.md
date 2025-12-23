@@ -3,17 +3,23 @@
 **Passionate Software / IT Engineer**  
 Crafting scalable, innovative solutions at the intersection of technology and curiosity — **Grokking the universe, one line of code at a time**.
 
-<grok-card data-id="d667a7" data-type="image_card"></grok-card>
+<grok-card data-id="b1dc80" data-type="image_card"></grok-card>
 
 
 <!-- Cosmic Nebula Header Banner -->
 <p align="center">
-  <img src="https://files.123freevectors.com/wp-content/original/blue-nebula-in-starry-space-blue-and-black-173901483.png" alt="Cosmic Nebula Banner" width="100%" />
+  <img src="https://t4.ftcdn.net/jpg/09/39/10/71/360_F_939107186_jy2TtvANfxt6dgX226HEopzROfD1Xq0S.jpg" alt="Cosmic Nebula Banner" width="100%" />
 </p>
 
-<!-- Inspired by Grok's sleek interface -->
+<grok-card data-id="7d9c73" data-type="image_card"></grok-card>
 
-<grok-card data-id="94fca0" data-type="image_card"></grok-card>
+
+<!-- Inspired by Grok's sleek dark interface -->
+<p align="center">
+  <img src="https://framerusercontent.com/images/uCVc6kUKsUIBsUpYwFYYxYM1zU.png" alt="Grok xAI Interface Inspiration" width="100%" />
+</p>
+
+<grok-card data-id="e37966" data-type="image_card"></grok-card>
 
 
 ### 📖 About Me
@@ -35,7 +41,12 @@ Crafting scalable, innovative solutions at the intersection of technology and cu
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,nextjs,express,nestjs,docker,kubernetes,aws,gcp,azure,git,postgres,mongodb,redis,linux,graphql,terraform&perline=10&theme=dark" />
 </p>
 
-<grok-card data-id="2b19d4" data-type="image_card"></grok-card>
+<!-- Futuristic AI Abstract Background -->
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/futuristic-abstract-landscape-glowing-particles-digital-art-background-design-generative-ai-mesmerizing-blue-349670303.jpg" alt="Futuristic AI Background" width="100%" />
+</p>
+
+<grok-card data-id="638e0e" data-type="image_card"></grok-card>
 
 
 ### 📊 GitHub Analytics
@@ -64,14 +75,9 @@ Crafting scalable, innovative solutions at the intersection of technology and cu
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&format=true" alt="Visitors" />
 </p>
 
-<!-- Futuristic Footer -->
-
-<grok-card data-id="5094dc" data-type="image_card"></grok-card>
-
-
 <!-- Cosmic Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0D1117,111927,1a2a3a,2d3b4a,1f6feb&height=200&section=footer&fontSize=24&fontColor=ffffff" />
+  <img src="https://images5.alphacoders.com/131/thumb-1920-1315108.jpeg" alt="Cosmic Wave Footer" width="100%" />
 </p>
 
-<!-- This profile is inspired by the sleek, cosmic, truth-seeking vibe of Grok & xAI — dark, minimalist, and powerfully futuristic. -->
+<!-- This profile embodies the sleek, cosmic, truth-seeking essence of Grok & xAI — dark, minimalist, and powerfully futuristic. 🌌 -->
